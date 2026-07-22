@@ -1,0 +1,4 @@
+.jaaicode/
+graphify-out/
+artifacts/*
+!artifacts/.gitkeep
